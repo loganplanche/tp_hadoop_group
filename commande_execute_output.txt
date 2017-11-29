@@ -1,0 +1,1 @@
+hadoop jar /home/lplanche/tp_hadoop_group-0.0.1-SNAPSHOT.jar tp_hadoop_id.tp_hadoop_group.PivotDriver /user/lplanche /user/lplanche/output
